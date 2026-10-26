@@ -1,0 +1,13 @@
+{
+  "organisation_name": "Jan Gramin Vikash Sansthan (JGVS)",
+  "verified": false,
+  "registration_number": null,
+  "12A_status": null,
+  "80G_status": null,
+  "csr1_status": null,
+  "annual_reports": [],
+  "audited_financials": [],
+  "projects": [],
+  "beneficiary_counts": null,
+  "rule": "If a field is null, output 'Information Required'; do not infer or fabricate."
+}
